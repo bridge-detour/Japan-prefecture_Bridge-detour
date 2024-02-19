@@ -1,7 +1,4 @@
-# 橋梁迂回路計算結果説明資料
-## (本データを使用する際には必ずお読みください）
-
-## **リリースにあるpdfファイルや，アップロードされているマニュアルを**
+# 本データを使用する際には「橋梁迂回路計算結果説明資料(Bridge detour calculation results_Explanatory)」を必ずお読みください(Please read this before using this data.)
 
 ### 本データをダウンロードするには以下にアクセスする。
 （Google Drive）https://drive.google.com/drive/folders/1nr7v8sxUGRn1fshcFi6xO-b2LXZJ3pRZ 
