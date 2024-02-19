@@ -1,7 +1,12 @@
 # 本データを使用する際には「橋梁迂回路計算結果説明資料(Bridge detour calculation results_Explanatory)」を必ずお読みください
 
-### 本データをダウンロードするには以下にアクセスする。
+### 本データをダウンロードするには以下にアクセスすること．
 （Google Drive）https://drive.google.com/drive/folders/1nr7v8sxUGRn1fshcFi6xO-b2LXZJ3pRZ 
+### また，本データを利用する際には，以下のように出典を表示すること．
+> **『 長井宏平，井林康，福澤健人，菅沼久忠，金杉洋：全国橋梁位置データとOSMを用いた橋梁迂回路計算結果，2024. [https://github.com/bridge-detour/Japan-prefecture_Bridgedetour](https://github.com/bridge-detour/Japan-prefecture_Bridgedetour)』**　もしくはこれに準じた同内容の出典表示をすること．また，編集・加工してなどして利用する場合は，編集・加工などを行ったことを併して明記すること．
+
+公表した研究論文や検討事例については、セクション1.4に記載されている問い合わせ先へ、公表物とともに報告してください。
+
 
 ## 作成者
 - 北海道大学大学院工学研究院土木工学部門 長井 宏平
