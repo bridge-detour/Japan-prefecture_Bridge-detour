@@ -2,6 +2,9 @@
 
 ## **リリースにあるpdfファイルや，アップロードされているマニュアルに関して**
 
+### 本データをダウンロードするには以下にアクセスする。
+（Google Drive）https://drive.google.com/drive/folders/1nr7v8sxUGRn1fshcFi6xO-b2LXZJ3pRZ 
+
 ## 作成者
 - 北海道大学大学院工学研究院土木工学部門 長井 宏平
 - 長岡工業高等専門学校環境都市工学科 井林 康
