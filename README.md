@@ -4,7 +4,7 @@
 ### 本データをダウンロードするには以下にアクセスすること．
 （Google Drive）https://drive.google.com/drive/folders/1nr7v8sxUGRn1fshcFi6xO-b2LXZJ3pRZ 
 
-- データ形式は【(都道府県ローマ字)_detour_(文字コード(utf-8,cp932))】となっています．
+- データ形式は【(都道府県ローマ字)＿detour＿(文字コード(utf-8,cp932))】となっています．
 
 ### また，本データを利用する際には，以下のように出典を表示すること．
 > **『 長井宏平，井林康，福澤健人，柏貴裕，菅沼久忠，金杉洋：全国橋梁位置データとOSMを用いた橋梁迂回路計算結果，2024.([https://github.com/bridge-detour/Japan-prefecture_Bridge-detour](https://github.com/bridge-detour/Japan-prefecture_Bridge-detour))』**　もしくはこれに準じた同内容の出典表示をすること．また，編集・加工してなどして利用する場合は，編集・加工などを行ったことを併して明記すること．
